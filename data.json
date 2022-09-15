@@ -1,0 +1,21 @@
+[
+    {
+        "nome":"Pinguini",
+        "titolo":["Tattici Nucleari", "ringo star","Nonono","antartide"],
+        "url":"https://striveschool-api.herokuapp.com/api/deezer/search?q=pinguini%20tattici%20nucleari",
+        "img_src":"pinguini.jpg"
+
+    }, 
+    {
+        "nome":"Maneskin",
+        "titolo":["chosen","Mammamia","If i can dream","in nome del padre"],
+        "url":"https://striveschool-api.herokuapp.com/api/deezer/search?q=maneskin",
+        "img_src":"maneskin.jpg"
+    }, 
+    {
+        "nome":"Mahmood",
+        "titolo":["Soldi","Rapide","Klan","T'amo"],
+        "url":"https://striveschool-api.herokuapp.com/api/deezer/search?q=mahmood",
+        "img_src":"mahmood.jpg"
+    }
+]
